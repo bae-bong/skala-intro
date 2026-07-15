@@ -1,0 +1,44 @@
+[
+    {
+        "region": "서울",
+        "category": "전자",
+        "amount": 1500,
+        "month": "2024-01"
+    },
+    {
+        "region": "부산",
+        "category": "의류",
+        "amount": 800,
+        "month": "2024-01"
+    },
+    {
+        "region": "서울",
+        "category": "의류",
+        "amount": 1200,
+        "month": "2024-02"
+    },
+    {
+        "region": "대구",
+        "category": "전자",
+        "amount": 950,
+        "month": "2024-01"
+    },
+    {
+        "region": "",
+        "category": "전자",
+        "amount": 1500,
+        "month": "2024-05"
+    },
+    {
+        "region": "서울",
+        "category": "의류",
+        "amount": -500,
+        "month": "2024-05"
+    },
+    {
+        "region": "   ",
+        "category": "식품",
+        "amount": 300,
+        "month": "2024-05"
+    }
+]
