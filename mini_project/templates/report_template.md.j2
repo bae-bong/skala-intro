@@ -1,0 +1,16 @@
+# [Day 2] IT 개발자 AI 도구 활용이 연봉 및 만족도에 미치는 영향 분석 보고서
+**보고서 자동 생성 일시:** {{ generation_time }}
+
+---
+
+## 1. 데이터 준비 및 로딩 속도 비교 (Pandas vs Polars)
+- **Pandas 로딩 시간**: `{{ pandas_time }}초`
+- **Polars 로딩 시간**: `{{ polars_time }}초`
+- **전처리 요약**: 중복 데이터 및 이상치 제거 완료 (최종 유효 데이터: `{{ total_rows }}개 행`)
+- **파생변수 생성**: `AISelect` 컬럼을 분석 가설에 맞춰 `'Yes'`와 `'No'` 2개 그룹(`AI_Status`)으로 논리적 통합
+
+---
+
+## 2. 주요 기술통계량
+```text
+{{ desc_stats }}
